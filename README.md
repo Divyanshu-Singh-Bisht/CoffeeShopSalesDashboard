@@ -8,7 +8,7 @@ An interactive **Power BI Dashboard** built to analyze coffee shop sales perform
 
 > Add your dashboard screenshot here.
 
-![Coffee Shop Sales Dashboard](Screenshot 2026-08-01 200020.png)
+![Coffee Shop Sales Dashboard](/Screenshot 2026-08-01 200020.png)
 
 ---
 
