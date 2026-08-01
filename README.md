@@ -141,3 +141,15 @@ Coffee-Shop-Sales-Dashboard/
 
 ---
 
+## 👤 Author
+
+**Your Name**
+
+- GitHub: https://github.com/Divyanshu-Singh-Bisht
+
+---
+
+## ⭐ If you found this project useful
+
+Give this repository a ⭐ on GitHub and feel free to fork it for learning or further development.
+
